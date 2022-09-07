@@ -1,4 +1,4 @@
-# CSX Noth Star programming class.
+# CSX Noth Star programming class
 
 ### DIRECTIONS: 
 
