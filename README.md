@@ -14,7 +14,7 @@
 
 4. Enter
 
-#### You now have a copy of this repository on your computer!
+### You now have a copy of this repository on your computer!
 
 
 
