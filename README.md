@@ -1,6 +1,4 @@
-# CSX-NORTH-STAR
-
-# After school computer programming class.
+# CSX Noth Star programming class.
 
 ### DIRECTIONS: 
 
