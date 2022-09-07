@@ -8,7 +8,7 @@
 
 2. Open the terminal (crtl + shift + `)
 
-  a. Make sure you know what folder you are in. 
+    a. Make sure you know what folder you are in. 
 
 3. Type `git clone link` and paste tha link where it says "link"
 
